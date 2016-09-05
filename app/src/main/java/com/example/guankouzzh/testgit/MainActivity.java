@@ -15,5 +15,6 @@ public class MainActivity extends AppCompatActivity {
         this.tvTest=(TextView)this.findViewById(R.id.tvTest);
         this.tvTest.setText("TestGit!!!");
         this.tvTest.setText("TestGit2!!!");
+        this.tvTest.setText("TestGit3!!!");
     }
 }
